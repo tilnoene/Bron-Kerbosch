@@ -9,7 +9,7 @@ vector<vector<int>> maximalCliques; // armazena todos os cliques maximais
 int iterationsWithoutPivoting = 0, iterationsWithPivoting = 0; // número de iterações sem e com pivotamento, respectivamente
 
 // calcula o coeficiente de aglomeração do grafo
-double agglomerationCoefficient() {
+double clusteringCoefficient() {
     double sum = 0;
 
     for (int node = 1; node <= n; node++) {
@@ -160,7 +160,7 @@ int main() {
     cout << "\nBorn-Kerbosch com pivotamento";
     printMaximalCliques();
 
-    cout << "\nCoeficiente de aglomeração: " << fixed << setprecision(8) << agglomerationCoefficient() << '\n';
+    cout << "\nCoeficiente de aglomeração: " << fixed << setprecision(8) << clusteringCoefficient() << '\n';
 
     cout << "\nNúmero de iterações sem pivotamento: " << iterationsWithoutPivoting << '\n';
     cout << "Número de iterações com pivotamento: " << iterationsWithPivoting << '\n';
