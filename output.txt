@@ -1,0 +1,177 @@
+
+Born-Kerbosch sem pivotamento (84 cliques maximais):
+Tamanho 4: 1 11 43 48 
+Tamanho 3: 1 15 41 
+Tamanho 3: 1 16 41 
+Tamanho 3: 2 18 28 
+Tamanho 3: 2 20 55 
+Tamanho 3: 2 27 28 
+Tamanho 2: 2 29 
+Tamanho 2: 2 37 
+Tamanho 3: 2 42 55 
+Tamanho 3: 3 11 43 
+Tamanho 2: 3 45 
+Tamanho 2: 3 62 
+Tamanho 3: 4 9 60 
+Tamanho 2: 4 15 
+Tamanho 2: 5 52 
+Tamanho 4: 6 10 14 58 
+Tamanho 2: 6 57 
+Tamanho 5: 7 10 14 18 58 
+Tamanho 4: 7 14 55 58 
+Tamanho 2: 7 57 
+Tamanho 3: 8 20 31 
+Tamanho 3: 8 20 55 
+Tamanho 2: 8 28 
+Tamanho 2: 8 41 
+Tamanho 3: 9 21 29 
+Tamanho 3: 9 38 46 
+Tamanho 3: 9 46 60 
+Tamanho 3: 10 14 33 
+Tamanho 4: 10 14 42 58 
+Tamanho 2: 11 30 
+Tamanho 2: 12 52 
+Tamanho 2: 13 34 
+Tamanho 4: 14 42 55 58 
+Tamanho 4: 15 17 34 38 
+Tamanho 4: 15 17 34 39 
+Tamanho 4: 15 17 34 51 
+Tamanho 2: 15 25 
+Tamanho 4: 15 34 35 38 
+Tamanho 4: 15 34 38 41 
+Tamanho 4: 15 34 38 44 
+Tamanho 4: 15 34 39 44 
+Tamanho 3: 15 39 53 
+Tamanho 3: 15 41 53 
+Tamanho 4: 16 19 25 46 
+Tamanho 3: 16 46 60 
+Tamanho 2: 16 56 
+Tamanho 3: 17 21 39 
+Tamanho 3: 17 21 51 
+Tamanho 2: 18 23 
+Tamanho 3: 18 26 28 
+Tamanho 2: 18 32 
+Tamanho 2: 19 21 
+Tamanho 5: 19 22 30 46 52 
+Tamanho 5: 19 25 30 46 52 
+Tamanho 3: 21 29 48 
+Tamanho 2: 21 37 
+Tamanho 3: 21 39 45 
+Tamanho 3: 22 34 38 
+Tamanho 3: 22 38 46 
+Tamanho 2: 24 37 
+Tamanho 3: 24 46 52 
+Tamanho 3: 26 27 28 
+Tamanho 3: 29 31 48 
+Tamanho 2: 30 36 
+Tamanho 2: 30 44 
+Tamanho 2: 30 53 
+Tamanho 3: 31 43 48 
+Tamanho 2: 33 61 
+Tamanho 2: 35 45 
+Tamanho 2: 35 50 
+Tamanho 3: 37 38 41 
+Tamanho 2: 37 40 
+Tamanho 2: 37 60 
+Tamanho 2: 38 62 
+Tamanho 2: 39 59 
+Tamanho 2: 40 58 
+Tamanho 2: 43 51 
+Tamanho 2: 44 47 
+Tamanho 2: 44 54 
+Tamanho 3: 46 51 52 
+Tamanho 2: 47 50 
+Tamanho 2: 49 58 
+Tamanho 2: 52 56 
+Tamanho 2: 54 62 
+
+Born-Kerbosch com pivotamento (84 cliques maximais):
+Tamanho 3: 2 18 28 
+Tamanho 3: 2 20 55 
+Tamanho 3: 2 27 28 
+Tamanho 2: 2 29 
+Tamanho 2: 2 37 
+Tamanho 3: 2 42 55 
+Tamanho 3: 3 11 43 
+Tamanho 2: 3 45 
+Tamanho 2: 3 62 
+Tamanho 2: 5 52 
+Tamanho 2: 6 57 
+Tamanho 4: 6 10 14 58 
+Tamanho 2: 7 57 
+Tamanho 5: 7 10 14 18 58 
+Tamanho 4: 7 14 55 58 
+Tamanho 3: 8 20 31 
+Tamanho 3: 8 20 55 
+Tamanho 2: 8 28 
+Tamanho 2: 8 41 
+Tamanho 3: 4 9 60 
+Tamanho 3: 9 21 29 
+Tamanho 3: 9 38 46 
+Tamanho 3: 9 46 60 
+Tamanho 3: 10 14 33 
+Tamanho 4: 10 14 42 58 
+Tamanho 4: 1 11 43 48 
+Tamanho 2: 11 30 
+Tamanho 2: 12 52 
+Tamanho 2: 13 34 
+Tamanho 4: 14 42 55 58 
+Tamanho 3: 1 15 41 
+Tamanho 2: 4 15 
+Tamanho 2: 15 25 
+Tamanho 4: 15 17 34 38 
+Tamanho 4: 15 34 35 38 
+Tamanho 4: 15 34 38 41 
+Tamanho 4: 15 34 38 44 
+Tamanho 4: 15 17 34 39 
+Tamanho 4: 15 34 39 44 
+Tamanho 3: 15 39 53 
+Tamanho 4: 15 17 34 51 
+Tamanho 3: 15 41 53 
+Tamanho 3: 1 16 41 
+Tamanho 4: 16 19 25 46 
+Tamanho 3: 16 46 60 
+Tamanho 2: 16 56 
+Tamanho 2: 18 23 
+Tamanho 3: 18 26 28 
+Tamanho 2: 18 32 
+Tamanho 2: 19 21 
+Tamanho 5: 19 22 30 46 52 
+Tamanho 5: 19 25 30 46 52 
+Tamanho 3: 21 29 48 
+Tamanho 2: 21 37 
+Tamanho 3: 17 21 39 
+Tamanho 3: 21 39 45 
+Tamanho 3: 17 21 51 
+Tamanho 3: 22 34 38 
+Tamanho 3: 22 38 46 
+Tamanho 2: 24 37 
+Tamanho 3: 24 46 52 
+Tamanho 3: 26 27 28 
+Tamanho 3: 29 31 48 
+Tamanho 2: 30 36 
+Tamanho 2: 30 44 
+Tamanho 2: 30 53 
+Tamanho 3: 31 43 48 
+Tamanho 2: 33 61 
+Tamanho 3: 37 38 41 
+Tamanho 2: 37 40 
+Tamanho 2: 37 60 
+Tamanho 2: 40 58 
+Tamanho 2: 43 51 
+Tamanho 2: 35 45 
+Tamanho 3: 46 51 52 
+Tamanho 2: 44 47 
+Tamanho 2: 47 50 
+Tamanho 2: 49 58 
+Tamanho 2: 35 50 
+Tamanho 2: 52 56 
+Tamanho 2: 44 54 
+Tamanho 2: 54 62 
+Tamanho 2: 39 59 
+Tamanho 2: 38 62 
+
+Coeficiente de aglomeração: 0.25895825
+
+Número de iterações sem pivotamento: 347
+Número de iterações com pivotamento: 216
